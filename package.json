@@ -1,0 +1,19 @@
+{
+  "name": "node-intro-exercise",
+  "version": "1.0.0",
+  "description": "Node Intro Exercise for Springboard, Jan 2022",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-pears/Node-Intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-pears/Node-Intro/issues"
+  },
+  "homepage": "https://github.com/r-pears/Node-Intro#readme"
+}
